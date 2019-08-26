@@ -1,0 +1,29 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "javascript for leetcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testRegex": "/test/.*\\.(test|spec)\\.(ts|js)$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingll93/leetcode-javascript.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "kingll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingll93/leetcode-javascript/issues"
+  },
+  "homepage": "https://github.com/kingll93/leetcode-javascript#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.9.0"
+  }
+}
