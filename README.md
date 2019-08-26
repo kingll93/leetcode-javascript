@@ -1,2 +1,2 @@
 # leetcode-javascript
-LeetCode练习仓库
+LeetCode练习仓库~
